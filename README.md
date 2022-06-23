@@ -1,3 +1,5 @@
+<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 🌎 Hi There! My name is Jean Lincoln and I'm Front-End Developer
 
 💼 Tools: VSCode, Git e GitHub
