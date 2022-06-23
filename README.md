@@ -4,7 +4,7 @@
 
 💼 Tools: VSCode, Git e GitHub
 
-✉️ if you want talk with me, you can send me a message
+✉️ If you want talk with me, you can send me a message
 
  
 
