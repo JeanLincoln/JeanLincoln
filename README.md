@@ -1,16 +1,17 @@
-### Hi there 👋
+🌎 Hi There! My name is Jean Lincoln and I'm Front-End Developer
 
-<!--
-**JeanLincoln/JeanLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Tools: VSCode, Git e GitHub
 
-Here are some ideas to get you started:
+💌 if you want talk with me, you can send me a message
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+Experience of Work
+On below, you'll see my experience of work:
+
+Unicred Central multirregional
+Full-time • 6 months
+Services: Front-End Developer
+
+🦄 Skills
+HTML5 CSS3 JavaScript Bootstrap Jquery    
